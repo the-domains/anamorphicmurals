@@ -1,0 +1,28 @@
+name: ANAMORPHICMURALS
+favicon: null
+layout_spectrum: 0.2094188528135419
+typography_spectrum: 0.7241259450092912
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ffffff'
+    - '#f4e323'
+    - '#000000'
+    - '#5a5b56'
+    - '#88a9de'
+  brandStrength: 1
+  lightness: 0.6272203861735761
+  saturation: 0.9061886868439615
+  rhythmicContrast: 0.4844780371058732
+purpose: []
