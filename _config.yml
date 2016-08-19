@@ -2,7 +2,6 @@ name: ANAMORPHICMURALS
 favicon: null
 layout_spectrum: 0.2094188528135419
 typography_spectrum: 0.7241259450092912
-title: KICK-ASS STREET ART
 cta:
   domain: null
   bucket: null
@@ -17,12 +16,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#ffffff'
-    - '#f4e323'
-    - '#000000'
-    - '#5a5b56'
-    - '#88a9de'
-  brandStrength: 1
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.9609359775204211
   lightness: 0.6272203861735761
   saturation: 0.9061886868439615
   rhythmicContrast: 0.4844780371058732
